@@ -144,7 +144,7 @@ for (let i=0 ; i<number.length ; i++)
             max = number[i];
         }
 }
-console.log(max);
+// console.log(max);
 // const number = [2,5,3,983,4,55,96];
 // let max = number[0];
 
